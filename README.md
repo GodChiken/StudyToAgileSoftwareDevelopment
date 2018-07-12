@@ -1,8 +1,8 @@
 # StudyToAgileSoftwareDevelopment
 
 
-###에자일 방법론 공부 및 정리
-> 본 정리 내용은 Youtube SKtechx Tacademy 채널의 학습내용을 정리하였습니다.
+> 본 정리 내용은 Youtube SKtechx Tacademy 채널의 애자일 방법론의 학습내용을 정리하였습니다.  
+그리고 개인적인 생각을 첨부
 
 #  
 #1강
