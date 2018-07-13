@@ -55,10 +55,13 @@
 
 </center>
 <br/>
-<br/>    
-    
+<br/>
 
-   
+<p align="center">  
+
+![애자일 방법론이 중요시 하는것](/image/Lecture1/Lecture1_importantAgileElement.png)  
+
+</p>
         
 * 애자일 소프트웨어 개발의 중요성
     * 장점
